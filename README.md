@@ -1,7 +1,7 @@
 # python-mini-projects
 
 1- calculator.py
-Python ile yazılmış pratik ve basit bir hesap makinesi uygulamasi
+Python ile yazilmis pratik ve basit hesap makinesi uygulamasi.
 
 Yapabileceğiniz işlemler:
 - Toplama
@@ -10,5 +10,5 @@ Yapabileceğiniz işlemler:
 - Bolme
 
 2- password_generator.py
-Belirtilen uzunlukta rastgele sifre ureten Python uygulamasi
+Python ile yazilmis istenen uzunlukta sifre ureten uygulama.
  
